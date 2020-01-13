@@ -1,0 +1,67 @@
+.wrapper {
+  margin: 100px auto 0 auto;
+  max-width: 600px;
+}
+
+.hide {
+  display: none;
+}
+
+.start {
+  text-align: center;
+}
+
+#start {
+  font-family: Pacifico;
+}
+
+.timer {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: rgb(4, 73, 73);
+  color: whitesmoke;
+  font-family: Pacifico;
+  border-style: solid black;
+  background-color: rgb(4, 73, 73);
+}
+
+#scores {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-family: Pacifico;
+}
+
+h1 {
+  font-family: Pacifico;
+  color: rgb(4, 73, 73)
+}
+body {
+    font-family: Comfortaa;
+    font-size: 120%;
+    color: rgb(4, 73, 73)
+  }
+    
+  button {
+    display: inline-block;
+    margin: 5px;
+    font-size: 100%;
+    font-family: Comfortaa;
+    background-color: rgb(4, 73, 73);
+    color: white;
+  }
+
+  input {
+    font-size: 100%;
+    font-family: Oxygen;
+    color: rgb(4, 73, 73)  
+  }
+
+ 
+  
+ 
+  
+ 
+ 
+  
